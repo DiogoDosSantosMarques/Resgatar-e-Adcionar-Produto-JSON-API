@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "size": "M",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "size": "M",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "size": "M",
+      "price": 29.9
+    },
+    {
+      "name": "Camisa Lisa",
+      "price": "50",
+      "size": "M",
+      "id": 4
+    },
+    {
+      "name": "Jersey Ja Morant",
+      "price": "100",
+      "size": "M",
+      "id": 5
+    },
+    {
+      "name": "Jersey Ja Morant",
+      "price": "100",
+      "size": "M",
+      "id": 6
+    },
+    {
+      "name": "Jersey Ja Morant",
+      "price": "100",
+      "size": "M",
+      "id": 7
+    },
+    {
+      "name": "Jersey Ja Morant",
+      "price": "100",
+      "size": "M",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": "",
+      "size": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": "",
+      "size": "",
+      "id": 10
+    }
+  ]
+}
